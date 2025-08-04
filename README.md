@@ -34,7 +34,7 @@ Key features of the AI Learning Tutor include adaptive difficulty selection, mul
 The AI Learning Tutor reliably generates coherent, well-organized lessons and practical flashcards tailored to user preferences. User testing demonstrates that the adaptive difficulty system provides suitable challenge and clarity for beginners, intermediates, and advanced learners alike. The platform’s versatility makes it valuable for self-study, classroom augmentation, and corporate training.
 
 <p align="center">
-  <img src="demo.gif" alt="Demo of AI Tutor" width="650"/>
+  <img src="demo.gif" alt="Demo of AI Tutor" width="750"/>
 </p>
 
 **Contact**
