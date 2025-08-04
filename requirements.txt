@@ -1,0 +1,4 @@
+openai==1.97.1
+crewai==0.152.0
+langchain==0.3.27
+gradio==5.38.2
