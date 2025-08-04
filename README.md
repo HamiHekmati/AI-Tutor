@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://epe.brightspotcdn.com/a3/36/5d47f3024000ae9867227d35b389/ai-tutor-052023-1470419722-01.jpg" alt="AI Tutor Illustration" width="600"/>
+  <img src="https://assets.rbl.ms/50859218/origin.jpg" alt="AI Tutor Illustration" width="650"/>
 </p>
+
 
 **AI Tutor**
 
