@@ -19,7 +19,7 @@ To run this project, clone or download the repository to your local machine. Ens
 pip install -r requirements.txt
 ```
 
-Next, obtain an OpenAI API key and configure it as an environment variable (see the notebook instructions for secure setup, especially if using Google Colab). Launch the notebook or script, and you will be prompted to enter a topic and select a difficulty level. The application will then generate a customized lesson and set of flashcards, displayed through a user-friendly Gradio interface.
+Next, obtain an OpenAI API key and configure it as an environment variable (see [the notebook]("AI_Tutor.ipynb") instructions for secure setup, especially if using Google Colab). Launch the notebook or script, and you will be prompted to enter a topic and select a difficulty level. The application will then generate a customized lesson and set of flashcards, displayed through a user-friendly Gradio interface.
 
 **Project Workflow**
 
